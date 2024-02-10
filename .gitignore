@@ -4,3 +4,4 @@
 /build/
 /dist/
 /micro_whois.egg-info/
+/test.py
