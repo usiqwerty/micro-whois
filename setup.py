@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 setup(
 	name='micro-whois',
-	version='1.0',
+	version='1.0.3',
 	packages=find_packages(),
 	url='https://github.com/usiqwerty/micro-whois',
 	license='MIT License',

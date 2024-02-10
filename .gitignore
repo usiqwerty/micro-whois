@@ -1,2 +1,6 @@
 /env/
 /.idea
+/upload.py
+/build/
+/dist/
+/micro_whois.egg-info/
